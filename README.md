@@ -1,5 +1,5 @@
-# 🤖AR15BOT🤖
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+# BOT AQIP
+BOT WHATSAPP TERMUX ONLY BY Muhammad Aqip
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -14,15 +14,15 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Muhammad Aqip.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/aris187id/whatsapp-bot
-> cd whatsapp-bot
+> git clone https://github.com/MuhammadAqip/Termux-Wa-BOT
+> cd Termux-Wa-BOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -66,10 +66,5 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
-
-## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Muhammad Aqip)
 
