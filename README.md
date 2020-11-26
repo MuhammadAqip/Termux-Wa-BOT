@@ -79,5 +79,5 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Muham
 ## Special Thanks To
 * [`A187ID`](https://github.com/A187ID)
 * [`Fdciabidul`](https://github.com/fdciabdul)
-* [`Bintang Nur Pradana`](https://github.com/Bintang73
+* [`Bintang Nur Pradana`](https://github.com/Bintang73)
 
