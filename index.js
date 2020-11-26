@@ -913,7 +913,7 @@ if (text.includes("~igstalk")){
 }
 if (text.includes("~call")){
 	const text = text.replace(/~call /, "")
-        conn.sendMessage(id, 'Ulangi Lagi Dengan ~call 896xxxxxxx
+        conn.sendMessage(id, 'Ulangi Lagi Dengan ~call 896xxxxxxx' ,MessageType.text)
 	axios.get(`https://mhankbarbar.herokuapp.com/api/spamcall?no=${text}`).then ((res) => {
 	let hasil = ` ${res.data.logs}`
 	conn.sendMessage(id, hasil, MessageType.text)
