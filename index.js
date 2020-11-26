@@ -949,7 +949,7 @@ if (text.includes("~covidnegara")){
 }
 if (text.includes('~ssweb')){
   var url = text.replace(/~ssweb /, '')
-    axios.get('https://mhankbarbar.herokuapp.com/api/url2image?url=${url}&apiKey=lGjYt4zA5SQlTDx9z9Ca)
+    axios.get(`https://mhankbarbar.herokuapp.com/api/url2image?url=${url}&apiKey=lGjYt4zA5SQlTDx9z9Ca`)
     .then((res) => {
       imageToBase64(res.data.result)
         .then(
