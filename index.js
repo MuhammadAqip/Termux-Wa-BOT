@@ -983,5 +983,5 @@ if (text.includes('~ssweb')){
 //Tolonglah bro jangan di ubah ubah Muhammad Aqip
 
 
-})
+}
 
