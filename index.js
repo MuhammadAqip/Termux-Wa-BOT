@@ -975,8 +975,7 @@ if (text.includes('~ssweb')){
                let hasil = `
                conn.sendMessage(id, randomgay, MessageType.text)
             });
-         
-   }
+
    if (messageType === MessageType.text)
    {
       let is = m.message.conversation.toLocaleLowerCase()
