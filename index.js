@@ -885,7 +885,6 @@ if (text.includes("~pokemon"))
                conn.sendMessage(id, randombijak, MessageType.text)
             });
       }   
-   }
    if (messageType === MessageType.text)
    {
       let is = m.message.conversation.toLocaleLowerCase()
