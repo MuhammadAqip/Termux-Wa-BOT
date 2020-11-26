@@ -763,7 +763,7 @@ if (text.includes("~randomanime"))
     }
  
 if (text.includes("~lirik")){
-	const teks = text.split("#lirik")[1]
+	const teks = text.split("~lirik")[1]
 	axios.get(`http://scrap.terhambar.com/lirik?word=${teks}`).then ((res) => {
 	     conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
 	 	let hasil = `🎵lirik lagu🎵${teks} \n\n\n ${res.data.result.lirik}`
@@ -890,7 +890,7 @@ if (text.includes("~pokemon"))
    {
       let is = m.message.conversation.toLocaleLowerCase()
 
-      if (is == '#fakta')
+      if (is == '~fakta')
       {
 
          fetch('https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/faktaunix.txt')
