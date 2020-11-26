@@ -210,7 +210,7 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
 
 if (text.includes('~nulis')){
   var teks = text.replace(/~nulis /, '')
-    axios.get('https://bangandre.herokuapp.com/nulis?teks=+teks)
+    axios.get(`https://bangandre.herokuapp.com/nulis?teks=+${teks}`)
     .then((res) => {
       imageToBase64(res.data.result)
         .then(
