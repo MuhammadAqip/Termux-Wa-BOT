@@ -76,6 +76,8 @@ Ket: Aktiv 24 jam
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Muhammad Aqip)
 
-## Special Thanks For 
-[`A187Id
+## Special Thanks To
+* [`A187ID`](https://github.com/A187ID)
+* [`Fdciabidul`](https://github.com/fdciabdul)
+* [`Bintang_Nur_Pradana`](https://github.com/Bintang73
 
