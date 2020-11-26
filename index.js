@@ -535,7 +535,7 @@ var tampilWaktu = "JAM: " + jam + ":" + menit + ":" + detik;
 conn.sendMessage(id, info.info(id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) ,MessageType.text);
 }
 else if (text == '~ptl'){
-conn.sendMessage(id, 'kirim #ptl cewek/cowok\n\nContoh: #ptl cewek' ,MessageType.text);
+conn.sendMessage(id, 'kirim ~ptl cewek/cowok\n\nContoh: ~ptl cewek' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
