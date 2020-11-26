@@ -980,6 +980,6 @@ if (text.includes('~ssweb')){
    {
       let is = m.message.conversation.toLocaleLowerCase()
 
-//Tolonglah bro jangan di ubah ubah Muhammad Aqip
-
 }
+
+//Tolonglah bro jangan di ubah ubah Muhammad Aqip
