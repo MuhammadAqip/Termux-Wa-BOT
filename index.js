@@ -702,7 +702,7 @@ _${kata}_
     });
     }
 
-   if (text.includes("~foto cowok"))
+   if (text.includes("~ptl cowok"))
    {
     var items = ["cowo ganteng", "cogan", "korean boy", "chinese boy", "japan boy", "cowok indo ganteng", "cowok korea"];
     var cowo = items[Math.floor(Math.random() * items.length)];
