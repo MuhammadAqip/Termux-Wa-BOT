@@ -37,7 +37,7 @@ Script ini di modifikasi sama saya sendiri Muhammad Aqip.
 |       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
 |       ✅       | Foto Anime                       |
-|       ✅       | Foto cewek/cowok (new)           |
+|       ✅       | Ptl cewek/cowok (new)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
 |       ✅       | Quotes                           |
@@ -54,6 +54,14 @@ Script ini di modifikasi sama saya sendiri Muhammad Aqip.
 |       ✅       | TikTok Downloader  (new)         |
 |       ✅       | Wikipedia                        |
 |       ✅       | Say                              |
+|       ✅       | Spam Sms (new)
+|       ✅       | Call (new)
+|       ✅       | Spam Email (new)
+|       ✅       | Seberapa Gay (new)
+|       ✅       | ssweb (new)
+|       ✅       | covid negara (new)
+|       ✅       | ig stalk (new)
+|       ✅       | Cuaca (new)
 |       ✅       | Toxic (new)                      |
 |       ✅       | loli.                            |
 |       ✅       | hentai                           |
@@ -67,4 +75,7 @@ Ket: Aktiv 24 jam
 
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Muhammad Aqip)
+
+## Special Thanks For 
+[`A187Id
 
