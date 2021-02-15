@@ -1,6 +1,6 @@
 
-const BotName = 'BOT AQIP'; // Nama Bot Whatsapp
-const whatsapplu = 'Wa.me/+6289601416330'; // Nomor whatsapplu cok
+const BotName = 'BOT �꙱./P4luvi�꙱'; // Nama Bot Whatsapp
+const whatsapplu = 'Wa.me/+6287871537199'; // Nomor whatsapplu cok
 const kapanbotaktif = '5 Jam'; // Kapan bot lu aktif
 
 //
